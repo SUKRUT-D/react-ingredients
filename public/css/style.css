@@ -1,0 +1,18 @@
+.panel.panel-default {
+    margin: 20px;
+    border-color: #a8a8a8;
+}
+.panel-default>.panel-heading {
+    border-color: #cacaca;
+}
+.panel-default>.panel-body div.col-sm-10 {
+    padding-right: 0;
+}
+.btn {
+    padding: 6px 15px;
+}
+@media only screen and (max-width: 768px) {
+    .btn {
+        margin: 1rem 0;
+    }
+}
